@@ -34,5 +34,5 @@ Acts as a foundation for more complex systems involving voice commands, sensors,
 
 #output
 
-
+<img width="659" height="276" alt="Image" src="https://github.com/user-attachments/assets/d60af129-2950-4aa0-91e6-4e3b335d8982" />
 
